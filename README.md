@@ -9,10 +9,10 @@ This repository contains my *Assignment pwd0*, which includes:
 
 
 dsp-vinay-gaddam-dsp-/
-  ├── notebooks/
- │   └── my_first_notebook.ipynb  
- ├── requirements.txt             
- └── README.md                    
+├── notebooks/
+│   └── my_first_notebook.ipynb  # Jupyter Notebook with a NumPy example
+├── requirements.txt             # Dependencies for the virtual environment
+└── README.md                    # Project documentation
 
 
 
